@@ -27,6 +27,8 @@ OrbitChat features a sleek, user-friendly interface that lets users chat instant
 * **Bootstrap 5**: CSS framework used to make the layout look clean and fit different screen sizes.
 * **Custom CSS**: Used to design the custom chat bubbles, user buttons, colors, and smooth fade-in animations.
 * **JavaScript**: Used to establish the WebSocket connection, send typed messages, and show incoming messages in real-time.
+* **AI-Assisted UI**: Frontend layout and styling were generated using AI tools.
+
 
 ---
 
